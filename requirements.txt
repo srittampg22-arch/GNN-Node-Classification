@@ -1,0 +1,13 @@
+# Core notebook dependencies
+numpy
+pandas
+matplotlib
+networkx
+scikit-learn
+seaborn
+jupyter
+
+# PyTorch and PyTorch Geometric should be installed in versions compatible
+# with the runtime's Python and (if used) CUDA version.
+torch
+torch-geometric
